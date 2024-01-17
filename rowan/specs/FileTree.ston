@@ -1,0 +1,21 @@
+RwLoadSpecificationV2 {
+  #specName : 'FileTree',
+  #projectName : 'FileTree',
+  #gitUrl : 'git@github.com:kurtkilpela/filetree.git',
+  #revision : 'kurt.rowan-packaging',
+  #projectSpecFile : 'rowan/project.ston',
+  #componentNames : [
+    'FileTree'
+  ],
+  #customConditionalAttributes : [
+    'tests'
+  ],
+  #platformProperties : {
+    'gemstone' : {
+      'allusers' : {
+        #defaultSymbolDictName : 'Globals'
+      }
+    }
+  },
+  #comment : 'FileTree load spec'
+}

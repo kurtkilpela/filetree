@@ -1,0 +1,11 @@
+RwProjectSpecificationV2 {
+  #specName : 'project',
+  #projectSpecPath : 'rowan',
+  #componentsPath : 'rowan/components',
+  #packagesPath : 'repository',
+  #projectsPath : 'rowan/projects',
+  #specsPath : 'rowan/specs',
+  #packageFormat : 'filetree',
+  #packageConvention : 'RowanHybrid',
+  #comment : 'FileTree - A directory-based package format for managing Smalltalk source code and enabling reasonable support for version control systems like git.'
+}

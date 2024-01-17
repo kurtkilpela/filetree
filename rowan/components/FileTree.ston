@@ -1,0 +1,12 @@
+RwSimpleProjectLoadComponentV2 {
+  #name : 'FileTree',
+  #condition : 'common',
+  #componentNames : [
+    'tests/FileTree'
+  ],
+  #packageNames : [
+    'MonticelloFileTree-Core',
+    'MonticelloFileTree-FileDirectory-Utilities'
+  ],
+  #comment : 'Core Package for FileTree'
+}
