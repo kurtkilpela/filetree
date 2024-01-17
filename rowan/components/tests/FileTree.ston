@@ -1,0 +1,9 @@
+RwSimpleProjectLoadComponentV2 {
+  #name : 'tests/FileTree',
+  #condition : 'test',
+  #packageNames : [
+    'MonticelloFileTree-Tests',
+    'MonticelloFileTree-FileDirectory-Tests'
+  ],
+  #comment : 'Test Packages for FileTree'
+}

@@ -8,5 +8,5 @@ RwSimpleProjectLoadComponentV2 {
     'MonticelloFileTree-Core',
     'MonticelloFileTree-FileDirectory-Utilities'
   ],
-  #comment : 'Core Package for FileTree'
+  #comment : 'Core Packages for FileTree'
 }
